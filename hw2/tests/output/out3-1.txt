@@ -1,0 +1,6 @@
+The container stores 5 transports:
+1. It's a Plane. Range = 3000. Capacity = 600 Perfect time = 5.0
+2. It's a Train. Cart number = 60. Perfect time = 4.0
+3. It's a tugboat. Displacement = 150. Perfect time = 8.75
+4. It's a Plane. Range = 8000. Capacity = 1200 Perfect time = 2.5
+5. It's a tanker. Displacement = 900. Perfect time = 14.583333333333334

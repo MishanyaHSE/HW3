@@ -1,0 +1,3 @@
+The container after sorting elements:
+1. It's a Plane. Range = 3000. Capacity = 600 Perfect time = 5.0
+Average time is 5.0

@@ -1,0 +1,501 @@
+The container stores 500 transports:
+1. It's a Train. Cart number = 47. Perfect time = 4.1521739130434785
+2. It's a Train. Cart number = 23. Perfect time = 2.9879032258064515
+3. It's a tugboat. Displacement = 34. Perfect time = 94.76119402985074
+4. It's a Train. Cart number = 77. Perfect time = 1.4536082474226804
+5. It's a Plane. Range = 532. Capacity = 123 Perfect time = 1.4765751211631664
+6. It's a Train. Cart number = 91. Perfect time = 8.932584269662922
+7. It's a Train. Cart number = 72. Perfect time = 1.3356890459363957
+8. It's a liner. Displacement = 55. Perfect time = 72.21
+9. It's a tugboat. Displacement = 63. Perfect time = 60.93421052631579
+10. It's a tanker. Displacement = 41. Perfect time = 43.391752577319586
+11. It's a Plane. Range = 834. Capacity = 142 Perfect time = 2.7191011235955056
+12. It's a liner. Displacement = 79. Perfect time = 36.94949494949495
+13. It's a Plane. Range = 873. Capacity = 136 Perfect time = 1.2722772277227723
+14. It's a tanker. Displacement = 80. Perfect time = 102.98387096774194
+15. It's a Train. Cart number = 46. Perfect time = 6.678048780487805
+16. It's a liner. Displacement = 56. Perfect time = 50.48421052631579
+17. It's a tugboat. Displacement = 70. Perfect time = 47.836363636363636
+18. It's a Train. Cart number = 74. Perfect time = 3.06551724137931
+19. It's a liner. Displacement = 28. Perfect time = 35.64835164835165
+20. It's a tanker. Displacement = 37. Perfect time = 142.31147540983608
+21. It's a Train. Cart number = 52. Perfect time = 1.1369863013698631
+22. It's a Train. Cart number = 70. Perfect time = 5.072222222222222
+23. It's a Train. Cart number = 12. Perfect time = 1.125
+24. It's a tugboat. Displacement = 48. Perfect time = 144.90384615384616
+25. It's a Plane. Range = 634. Capacity = 152 Perfect time = 1.9723756906077348
+26. It's a Plane. Range = 175. Capacity = 288 Perfect time = 1.70620239390642
+27. It's a tanker. Displacement = 53. Perfect time = 82.46969696969697
+28. It's a tanker. Displacement = 67. Perfect time = 90.0
+29. It's a Train. Cart number = 40. Perfect time = 1.0174418604651163
+30. It's a Train. Cart number = 63. Perfect time = 9.745283018867925
+31. It's a Plane. Range = 198. Capacity = 214 Perfect time = 1.5653896961690885
+32. It's a Plane. Range = 928. Capacity = 360 Perfect time = 1.0328006728343146
+33. It's a tanker. Displacement = 36. Perfect time = 11.15
+34. It's a tanker. Displacement = 69. Perfect time = 160.56451612903226
+35. It's a Train. Cart number = 41. Perfect time = 8.05691056910569
+36. It's a liner. Displacement = 63. Perfect time = 102.875
+37. It's a Train. Cart number = 18. Perfect time = 5.760869565217392
+38. It's a Plane. Range = 285. Capacity = 146 Perfect time = 1.649214659685864
+39. It's a tugboat. Displacement = 72. Perfect time = 56.25
+40. It's a tanker. Displacement = 66. Perfect time = 80.1891891891892
+41. It's a Train. Cart number = 90. Perfect time = 5.413953488372093
+42. It's a tanker. Displacement = 62. Perfect time = 25.322916666666668
+43. It's a Train. Cart number = 74. Perfect time = 1.8447653429602888
+44. It's a Plane. Range = 109. Capacity = 294 Perfect time = 1.4964739069111423
+45. It's a Train. Cart number = 89. Perfect time = 6.0
+46. It's a Train. Cart number = 24. Perfect time = 3.2371134020618557
+47. It's a Train. Cart number = 69. Perfect time = 4.393548387096774
+48. It's a tanker. Displacement = 18. Perfect time = 93.13
+49. It's a Train. Cart number = 45. Perfect time = 3.3060109289617485
+50. It's a tanker. Displacement = 86. Perfect time = 105.52439024390245
+51. It's a Train. Cart number = 25. Perfect time = 6.104166666666667
+52. It's a liner. Displacement = 39. Perfect time = 91.14583333333333
+53. It's a liner. Displacement = 89. Perfect time = 129.57407407407408
+54. It's a Plane. Range = 190. Capacity = 212 Perfect time = 1.2221290863369656
+55. It's a Plane. Range = 377. Capacity = 166 Perfect time = 2.19164265129683
+56. It's a Train. Cart number = 75. Perfect time = 4.061855670103093
+57. It's a liner. Displacement = 51. Perfect time = 104.02898550724638
+58. It's a tugboat. Displacement = 57. Perfect time = 57.578125
+59. It's a liner. Displacement = 51. Perfect time = 70.73170731707317
+60. It's a Train. Cart number = 98. Perfect time = 2.2764227642276422
+61. It's a Train. Cart number = 30. Perfect time = 18.185185185185187
+62. It's a tugboat. Displacement = 74. Perfect time = 102.17977528089888
+63. It's a Train. Cart number = 89. Perfect time = 6.216216216216216
+64. It's a Plane. Range = 327. Capacity = 338 Perfect time = 2.270909090909091
+65. It's a Plane. Range = 234. Capacity = 349 Perfect time = 0.9921135646687698
+66. It's a Plane. Range = 318. Capacity = 340 Perfect time = 0.9255172413793104
+67. It's a tugboat. Displacement = 21. Perfect time = 139.81967213114754
+68. It's a Plane. Range = 917. Capacity = 127 Perfect time = 2.2040133779264215
+69. It's a Plane. Range = 472. Capacity = 152 Perfect time = 1.3908450704225352
+70. It's a Train. Cart number = 92. Perfect time = 1.9770992366412214
+71. It's a Train. Cart number = 30. Perfect time = 1.0904761904761904
+72. It's a Train. Cart number = 78. Perfect time = 3.7683397683397684
+73. It's a Train. Cart number = 48. Perfect time = 5.517094017094017
+74. It's a Train. Cart number = 96. Perfect time = 2.111111111111111
+75. It's a tugboat. Displacement = 99. Perfect time = 80.34
+76. It's a tanker. Displacement = 50. Perfect time = 148.28846153846155
+77. It's a tanker. Displacement = 79. Perfect time = 24.41304347826087
+78. It's a Plane. Range = 186. Capacity = 74 Perfect time = 1.9142419601837672
+79. It's a Train. Cart number = 90. Perfect time = 8.780952380952382
+80. It's a tugboat. Displacement = 48. Perfect time = 44.674418604651166
+81. It's a tugboat. Displacement = 91. Perfect time = 16.608695652173914
+82. It's a tugboat. Displacement = 63. Perfect time = 45.666666666666664
+83. It's a Train. Cart number = 82. Perfect time = 5.530612244897959
+84. It's a Plane. Range = 736. Capacity = 183 Perfect time = 1.5167118337850045
+85. It's a Plane. Range = 446. Capacity = 177 Perfect time = 1.3964165733482643
+86. It's a Train. Cart number = 36. Perfect time = 1.9932659932659933
+87. It's a Plane. Range = 958. Capacity = 104 Perfect time = 0.8638344226579521
+88. It's a Train. Cart number = 87. Perfect time = 5.487903225806452
+89. It's a liner. Displacement = 34. Perfect time = 100.96428571428571
+90. It's a Plane. Range = 817. Capacity = 363 Perfect time = 5.909375
+91. It's a tugboat. Displacement = 45. Perfect time = 112.08571428571429
+92. It's a Train. Cart number = 85. Perfect time = 2.8086124401913874
+93. It's a Plane. Range = 662. Capacity = 205 Perfect time = 3.064189189189189
+94. It's a tugboat. Displacement = 41. Perfect time = 88.39759036144578
+95. It's a Train. Cart number = 54. Perfect time = 2.1054421768707483
+96. It's a liner. Displacement = 45. Perfect time = 47.51724137931034
+97. It's a Train. Cart number = 21. Perfect time = 1.8512820512820514
+98. It's a Plane. Range = 585. Capacity = 136 Perfect time = 1.5261353898886032
+99. It's a Plane. Range = 426. Capacity = 334 Perfect time = 1.4714548802946592
+100. It's a Train. Cart number = 75. Perfect time = 8.25
+101. It's a tanker. Displacement = 82. Perfect time = 61.0919540229885
+102. It's a Plane. Range = 372. Capacity = 305 Perfect time = 2.5441176470588234
+103. It's a Plane. Range = 844. Capacity = 338 Perfect time = 1.958592132505176
+104. It's a Plane. Range = 796. Capacity = 317 Perfect time = 2.7241379310344827
+105. It's a Train. Cart number = 23. Perfect time = 3.8
+106. It's a liner. Displacement = 12. Perfect time = 97.94318181818181
+107. It's a tanker. Displacement = 46. Perfect time = 59.31460674157304
+108. It's a Train. Cart number = 94. Perfect time = 4.12781954887218
+109. It's a liner. Displacement = 14. Perfect time = 146.64406779661016
+110. It's a Plane. Range = 389. Capacity = 289 Perfect time = 1.5463414634146342
+111. It's a tugboat. Displacement = 64. Perfect time = 65.58333333333333
+112. It's a Plane. Range = 667. Capacity = 114 Perfect time = 3.483370288248337
+113. It's a tanker. Displacement = 64. Perfect time = 21.98780487804878
+114. It's a tanker. Displacement = 52. Perfect time = 109.46774193548387
+115. It's a tanker. Displacement = 55. Perfect time = 32.372549019607845
+116. It's a Train. Cart number = 20. Perfect time = 1.011111111111111
+117. It's a liner. Displacement = 11. Perfect time = 14.924242424242424
+118. It's a Plane. Range = 978. Capacity = 370 Perfect time = 1.2996146435452793
+119. It's a Train. Cart number = 91. Perfect time = 0.8345323741007195
+120. It's a Train. Cart number = 59. Perfect time = 2.893103448275862
+121. It's a tanker. Displacement = 60. Perfect time = 11.402777777777779
+122. It's a Plane. Range = 961. Capacity = 136 Perfect time = 1.4340836012861737
+123. It's a Train. Cart number = 81. Perfect time = 10.46031746031746
+124. It's a Plane. Range = 630. Capacity = 326 Perfect time = 1.7579737335834897
+125. It's a Train. Cart number = 46. Perfect time = 5.984293193717278
+126. It's a tanker. Displacement = 39. Perfect time = 34.148148148148145
+127. It's a liner. Displacement = 23. Perfect time = 34.08695652173913
+128. It's a Plane. Range = 372. Capacity = 212 Perfect time = 1.2103746397694524
+129. It's a Plane. Range = 108. Capacity = 157 Perfect time = 2.337696335078534
+130. It's a tugboat. Displacement = 51. Perfect time = 46.42857142857143
+131. It's a Train. Cart number = 58. Perfect time = 10.61320754716981
+132. It's a liner. Displacement = 77. Perfect time = 143.90196078431373
+133. It's a tugboat. Displacement = 58. Perfect time = 18.45205479452055
+134. It's a tanker. Displacement = 16. Perfect time = 99.75531914893617
+135. It's a Train. Cart number = 77. Perfect time = 2.9101123595505616
+136. It's a tugboat. Displacement = 68. Perfect time = 26.737373737373737
+137. It's a Train. Cart number = 71. Perfect time = 4.1855203619909505
+138. It's a Plane. Range = 650. Capacity = 106 Perfect time = 2.2593516209476308
+139. It's a tugboat. Displacement = 95. Perfect time = 14.845360824742269
+140. It's a Train. Cart number = 91. Perfect time = 2.260869565217391
+141. It's a Plane. Range = 688. Capacity = 205 Perfect time = 1.2308411214953272
+142. It's a tugboat. Displacement = 90. Perfect time = 113.94366197183099
+143. It's a tanker. Displacement = 88. Perfect time = 58.903225806451616
+144. It's a Plane. Range = 296. Capacity = 347 Perfect time = 2.891139240506329
+145. It's a tugboat. Displacement = 62. Perfect time = 71.73033707865169
+146. It's a Plane. Range = 903. Capacity = 382 Perfect time = 2.830357142857143
+147. It's a liner. Displacement = 71. Perfect time = 37.40217391304348
+148. It's a Train. Cart number = 67. Perfect time = 0.6374269005847953
+149. It's a Train. Cart number = 46. Perfect time = 6.3023255813953485
+150. It's a tugboat. Displacement = 96. Perfect time = 74.05681818181819
+151. It's a tanker. Displacement = 79. Perfect time = 131.24657534246575
+152. It's a tugboat. Displacement = 77. Perfect time = 100.73076923076923
+153. It's a tugboat. Displacement = 14. Perfect time = 59.56578947368421
+154. It's a Plane. Range = 354. Capacity = 71 Perfect time = 1.548936170212766
+155. It's a tugboat. Displacement = 12. Perfect time = 166.42857142857142
+156. It's a Train. Cart number = 36. Perfect time = 4.177777777777778
+157. It's a Train. Cart number = 96. Perfect time = 3.8793774319066148
+158. It's a tugboat. Displacement = 35. Perfect time = 44.333333333333336
+159. It's a tugboat. Displacement = 91. Perfect time = 131.86486486486487
+160. It's a liner. Displacement = 13. Perfect time = 118.41379310344827
+161. It's a Plane. Range = 247. Capacity = 215 Perfect time = 5.197222222222222
+162. It's a Plane. Range = 849. Capacity = 146 Perfect time = 1.2831858407079646
+163. It's a tugboat. Displacement = 28. Perfect time = 17.123287671232877
+164. It's a Plane. Range = 267. Capacity = 241 Perfect time = 2.3370165745856353
+165. It's a tanker. Displacement = 28. Perfect time = 180.62745098039215
+166. It's a Plane. Range = 872. Capacity = 158 Perfect time = 1.980281690140845
+167. It's a Train. Cart number = 97. Perfect time = 11.504854368932039
+168. It's a Plane. Range = 865. Capacity = 368 Perfect time = 2.043869516310461
+169. It's a Plane. Range = 946. Capacity = 72 Perfect time = 0.8507042253521127
+170. It's a Train. Cart number = 28. Perfect time = 1.6914285714285715
+171. It's a tanker. Displacement = 20. Perfect time = 66.975
+172. It's a Train. Cart number = 19. Perfect time = 0.5945945945945946
+173. It's a Plane. Range = 916. Capacity = 291 Perfect time = 0.7329376854599406
+174. It's a Plane. Range = 562. Capacity = 95 Perfect time = 1.049367088607595
+175. It's a tugboat. Displacement = 48. Perfect time = 27.95774647887324
+176. It's a Plane. Range = 693. Capacity = 93 Perfect time = 5.008264462809917
+177. It's a Train. Cart number = 34. Perfect time = 3.6979166666666665
+178. It's a liner. Displacement = 76. Perfect time = 71.07462686567165
+179. It's a Plane. Range = 919. Capacity = 57 Perfect time = 2.2877906976744184
+180. It's a Plane. Range = 590. Capacity = 230 Perfect time = 1.7677261613691932
+181. It's a Train. Cart number = 55. Perfect time = 4.908653846153846
+182. It's a Plane. Range = 497. Capacity = 357 Perfect time = 1.2240921169176262
+183. It's a Train. Cart number = 83. Perfect time = 9.047619047619047
+184. It's a Plane. Range = 742. Capacity = 310 Perfect time = 2.049052396878484
+185. It's a Train. Cart number = 66. Perfect time = 3.4794520547945207
+186. It's a Plane. Range = 770. Capacity = 70 Perfect time = 2.6450617283950617
+187. It's a tanker. Displacement = 29. Perfect time = 106.34042553191489
+188. It's a Train. Cart number = 40. Perfect time = 6.9392523364485985
+189. It's a Plane. Range = 468. Capacity = 329 Perfect time = 0.9506172839506173
+190. It's a liner. Displacement = 22. Perfect time = 7.591549295774648
+191. It's a Plane. Range = 265. Capacity = 223 Perfect time = 1.9323144104803494
+192. It's a Plane. Range = 950. Capacity = 190 Perfect time = 1.7647887323943663
+193. It's a tugboat. Displacement = 89. Perfect time = 46.79220779220779
+194. It's a Plane. Range = 366. Capacity = 293 Perfect time = 2.637203166226913
+195. It's a liner. Displacement = 41. Perfect time = 84.5
+196. It's a Plane. Range = 628. Capacity = 145 Perfect time = 2.003584229390681
+197. It's a liner. Displacement = 14. Perfect time = 106.88524590163935
+198. It's a Train. Cart number = 16. Perfect time = 3.60093896713615
+199. It's a Plane. Range = 896. Capacity = 399 Perfect time = 2.2696897374701672
+200. It's a Plane. Range = 961. Capacity = 151 Perfect time = 1.8118518518518518
+201. It's a Plane. Range = 581. Capacity = 185 Perfect time = 1.3256997455470738
+202. It's a Plane. Range = 397. Capacity = 178 Perfect time = 1.5597122302158273
+203. It's a Train. Cart number = 23. Perfect time = 4.048507462686567
+204. It's a tugboat. Displacement = 24. Perfect time = 78.9578947368421
+205. It's a Plane. Range = 809. Capacity = 319 Perfect time = 3.029850746268657
+206. It's a tugboat. Displacement = 72. Perfect time = 22.490909090909092
+207. It's a tanker. Displacement = 57. Perfect time = 14.25301204819277
+208. It's a Plane. Range = 980. Capacity = 263 Perfect time = 2.242837653478854
+209. It's a tugboat. Displacement = 37. Perfect time = 67.48148148148148
+210. It's a Train. Cart number = 89. Perfect time = 11.598039215686274
+211. It's a tugboat. Displacement = 10. Perfect time = 141.5818181818182
+212. It's a Plane. Range = 677. Capacity = 166 Perfect time = 1.6791979949874687
+213. It's a tanker. Displacement = 46. Perfect time = 80.328125
+214. It's a tugboat. Displacement = 62. Perfect time = 76.30508474576271
+215. It's a tanker. Displacement = 79. Perfect time = 66.80459770114942
+216. It's a Plane. Range = 939. Capacity = 157 Perfect time = 3.670480549199085
+217. It's a Train. Cart number = 87. Perfect time = 9.65040650406504
+218. It's a Plane. Range = 988. Capacity = 318 Perfect time = 2.364678899082569
+219. It's a Plane. Range = 312. Capacity = 362 Perfect time = 1.7619047619047619
+220. It's a Train. Cart number = 33. Perfect time = 2.814159292035398
+221. It's a tanker. Displacement = 75. Perfect time = 60.828125
+222. It's a Train. Cart number = 54. Perfect time = 2.980392156862745
+223. It's a tugboat. Displacement = 26. Perfect time = 106.95121951219512
+224. It's a Train. Cart number = 88. Perfect time = 1.8247863247863247
+225. It's a Plane. Range = 921. Capacity = 135 Perfect time = 1.6430379746835444
+226. It's a Train. Cart number = 67. Perfect time = 3.902439024390244
+227. It's a Plane. Range = 751. Capacity = 304 Perfect time = 1.3273542600896862
+228. It's a Train. Cart number = 41. Perfect time = 6.751295336787565
+229. It's a liner. Displacement = 71. Perfect time = 66.13333333333334
+230. It's a Train. Cart number = 98. Perfect time = 2.134831460674157
+231. It's a tanker. Displacement = 50. Perfect time = 102.390625
+232. It's a tanker. Displacement = 92. Perfect time = 63.892857142857146
+233. It's a Train. Cart number = 14. Perfect time = 15.4375
+234. It's a liner. Displacement = 32. Perfect time = 33.9054054054054
+235. It's a Plane. Range = 455. Capacity = 96 Perfect time = 2.545016077170418
+236. It's a liner. Displacement = 64. Perfect time = 39.0722891566265
+237. It's a Train. Cart number = 95. Perfect time = 2.96137339055794
+238. It's a liner. Displacement = 93. Perfect time = 37.362637362637365
+239. It's a Train. Cart number = 60. Perfect time = 3.780952380952381
+240. It's a Plane. Range = 192. Capacity = 332 Perfect time = 3.6792079207920794
+241. It's a Plane. Range = 173. Capacity = 88 Perfect time = 3.694331983805668
+242. It's a tugboat. Displacement = 37. Perfect time = 109.43396226415095
+243. It's a Train. Cart number = 45. Perfect time = 0.8028846153846154
+244. It's a tugboat. Displacement = 75. Perfect time = 32.785714285714285
+245. It's a Plane. Range = 758. Capacity = 149 Perfect time = 1.720152817574021
+246. It's a liner. Displacement = 38. Perfect time = 78.21505376344086
+247. It's a Train. Cart number = 31. Perfect time = 4.062717770034843
+248. It's a Plane. Range = 860. Capacity = 330 Perfect time = 2.338709677419355
+249. It's a Plane. Range = 556. Capacity = 320 Perfect time = 1.3006072874493928
+250. It's a Train. Cart number = 86. Perfect time = 3.6946308724832213
+251. It's a Plane. Range = 914. Capacity = 364 Perfect time = 2.4510869565217392
+252. It's a tugboat. Displacement = 32. Perfect time = 129.0142857142857
+253. It's a Plane. Range = 926. Capacity = 132 Perfect time = 2.390328151986183
+254. It's a Plane. Range = 407. Capacity = 112 Perfect time = 1.3695652173913044
+255. It's a Plane. Range = 245. Capacity = 232 Perfect time = 1.7377450980392157
+256. It's a Train. Cart number = 80. Perfect time = 4.067615658362989
+257. It's a Plane. Range = 156. Capacity = 382 Perfect time = 1.5747126436781609
+258. It's a Plane. Range = 379. Capacity = 250 Perfect time = 1.0222419928825623
+259. It's a tugboat. Displacement = 17. Perfect time = 6.76530612244898
+260. It's a Train. Cart number = 45. Perfect time = 3.3175675675675675
+261. It's a tugboat. Displacement = 98. Perfect time = 21.612244897959183
+262. It's a tugboat. Displacement = 35. Perfect time = 68.12
+263. It's a Train. Cart number = 52. Perfect time = 7.24468085106383
+264. It's a Plane. Range = 153. Capacity = 218 Perfect time = 0.7197851387645479
+265. It's a Plane. Range = 104. Capacity = 347 Perfect time = 3.4297352342158858
+266. It's a Plane. Range = 302. Capacity = 89 Perfect time = 0.9606227106227107
+267. It's a liner. Displacement = 60. Perfect time = 82.52830188679245
+268. It's a Train. Cart number = 14. Perfect time = 9.320512820512821
+269. It's a Train. Cart number = 40. Perfect time = 8.875
+270. It's a Plane. Range = 522. Capacity = 97 Perfect time = 1.5515981735159818
+271. It's a Plane. Range = 135. Capacity = 192 Perfect time = 3.769230769230769
+272. It's a Plane. Range = 606. Capacity = 213 Perfect time = 1.7418655097613882
+273. It's a liner. Displacement = 59. Perfect time = 7.586666666666667
+274. It's a Train. Cart number = 41. Perfect time = 6.705479452054795
+275. It's a tanker. Displacement = 43. Perfect time = 49.75806451612903
+276. It's a Plane. Range = 443. Capacity = 274 Perfect time = 1.8175765645805593
+277. It's a liner. Displacement = 50. Perfect time = 129.74242424242425
+278. It's a liner. Displacement = 100. Perfect time = 32.345454545454544
+279. It's a Train. Cart number = 88. Perfect time = 2.7955555555555556
+280. It's a tanker. Displacement = 90. Perfect time = 19.21590909090909
+281. It's a liner. Displacement = 49. Perfect time = 79.55319148936171
+282. It's a tugboat. Displacement = 14. Perfect time = 57.01470588235294
+283. It's a Train. Cart number = 43. Perfect time = 1.8443579766536966
+284. It's a tugboat. Displacement = 93. Perfect time = 93.625
+285. It's a tugboat. Displacement = 44. Perfect time = 88.28571428571429
+286. It's a Train. Cart number = 20. Perfect time = 2.5951557093425603
+287. It's a Plane. Range = 633. Capacity = 162 Perfect time = 1.4105263157894736
+288. It's a Train. Cart number = 30. Perfect time = 4.598130841121495
+289. It's a Plane. Range = 253. Capacity = 87 Perfect time = 2.3505311077389983
+290. It's a Plane. Range = 493. Capacity = 353 Perfect time = 0.7444345503116652
+291. It's a Train. Cart number = 96. Perfect time = 1.1467391304347827
+292. It's a Plane. Range = 268. Capacity = 330 Perfect time = 2.1170610211706102
+293. It's a Train. Cart number = 90. Perfect time = 0.8659003831417624
+294. It's a Train. Cart number = 59. Perfect time = 6.337579617834395
+295. It's a Train. Cart number = 69. Perfect time = 2.0211267605633805
+296. It's a Train. Cart number = 95. Perfect time = 4.292887029288703
+297. It's a Train. Cart number = 96. Perfect time = 8.432692307692308
+298. It's a Train. Cart number = 69. Perfect time = 1.4234234234234233
+299. It's a tugboat. Displacement = 95. Perfect time = 137.8695652173913
+300. It's a Train. Cart number = 51. Perfect time = 3.201550387596899
+301. It's a tugboat. Displacement = 40. Perfect time = 122.8225806451613
+302. It's a tugboat. Displacement = 70. Perfect time = 70.62790697674419
+303. It's a tanker. Displacement = 57. Perfect time = 118.78
+304. It's a liner. Displacement = 79. Perfect time = 73.77049180327869
+305. It's a tugboat. Displacement = 96. Perfect time = 102.46913580246914
+306. It's a Train. Cart number = 100. Perfect time = 1.458762886597938
+307. It's a tugboat. Displacement = 60. Perfect time = 38.75824175824176
+308. It's a tugboat. Displacement = 91. Perfect time = 92.43396226415095
+309. It's a Train. Cart number = 68. Perfect time = 3.2661290322580645
+310. It's a Train. Cart number = 87. Perfect time = 1.1423076923076922
+311. It's a Train. Cart number = 12. Perfect time = 3.2254098360655736
+312. It's a Train. Cart number = 38. Perfect time = 7.319371727748691
+313. It's a Plane. Range = 418. Capacity = 57 Perfect time = 1.7408759124087592
+314. It's a Train. Cart number = 14. Perfect time = 12.073394495412844
+315. It's a Train. Cart number = 90. Perfect time = 5.402985074626866
+316. It's a Plane. Range = 964. Capacity = 176 Perfect time = 1.8945454545454545
+317. It's a Plane. Range = 600. Capacity = 92 Perfect time = 1.6474543707973104
+318. It's a Plane. Range = 452. Capacity = 307 Perfect time = 1.8747433264887063
+319. It's a Plane. Range = 855. Capacity = 275 Perfect time = 3.7467362924281984
+320. It's a Plane. Range = 196. Capacity = 323 Perfect time = 1.5402298850574712
+321. It's a Train. Cart number = 58. Perfect time = 3.1595744680851063
+322. It's a Plane. Range = 842. Capacity = 227 Perfect time = 1.2758326216908624
+323. It's a tanker. Displacement = 63. Perfect time = 16.914893617021278
+324. It's a Plane. Range = 431. Capacity = 327 Perfect time = 2.3045751633986926
+325. It's a Plane. Range = 771. Capacity = 190 Perfect time = 1.0509849362688297
+326. It's a tugboat. Displacement = 46. Perfect time = 28.87878787878788
+327. It's a tugboat. Displacement = 57. Perfect time = 136.66
+328. It's a Train. Cart number = 39. Perfect time = 9.632075471698114
+329. It's a Train. Cart number = 82. Perfect time = 1.1693548387096775
+330. It's a Train. Cart number = 66. Perfect time = 0.7859649122807018
+331. It's a tugboat. Displacement = 85. Perfect time = 92.625
+332. It's a Train. Cart number = 85. Perfect time = 8.26605504587156
+333. It's a liner. Displacement = 58. Perfect time = 64.61
+334. It's a Plane. Range = 561. Capacity = 178 Perfect time = 2.5398671096345513
+335. It's a Train. Cart number = 91. Perfect time = 2.5547169811320756
+336. It's a liner. Displacement = 55. Perfect time = 186.32692307692307
+337. It's a Train. Cart number = 50. Perfect time = 9.69672131147541
+338. It's a Plane. Range = 920. Capacity = 178 Perfect time = 2.8838095238095236
+339. It's a Train. Cart number = 80. Perfect time = 2.2203389830508473
+340. It's a Plane. Range = 289. Capacity = 333 Perfect time = 1.507323568575233
+341. It's a Plane. Range = 309. Capacity = 263 Perfect time = 0.932258064516129
+342. It's a Train. Cart number = 45. Perfect time = 2.4234234234234235
+343. It's a liner. Displacement = 69. Perfect time = 130.40298507462686
+344. It's a Plane. Range = 780. Capacity = 308 Perfect time = 2.795918367346939
+345. It's a tugboat. Displacement = 94. Perfect time = 64.77631578947368
+346. It's a Plane. Range = 896. Capacity = 340 Perfect time = 1.3348334833483348
+347. It's a liner. Displacement = 94. Perfect time = 30.22
+348. It's a Train. Cart number = 11. Perfect time = 5.782051282051282
+349. It's a Train. Cart number = 82. Perfect time = 3.292517006802721
+350. It's a liner. Displacement = 86. Perfect time = 86.79268292682927
+351. It's a Train. Cart number = 43. Perfect time = 3.978798586572438
+352. It's a tanker. Displacement = 22. Perfect time = 52.785714285714285
+353. It's a liner. Displacement = 100. Perfect time = 60.90588235294118
+354. It's a Plane. Range = 849. Capacity = 369 Perfect time = 2.5433789954337898
+355. It's a Plane. Range = 171. Capacity = 343 Perfect time = 0.6920245398773006
+356. It's a tanker. Displacement = 73. Perfect time = 64.37209302325581
+357. It's a Plane. Range = 872. Capacity = 295 Perfect time = 1.9007391763463568
+358. It's a Train. Cart number = 51. Perfect time = 6.43010752688172
+359. It's a Plane. Range = 487. Capacity = 210 Perfect time = 4.113253012048193
+360. It's a tugboat. Displacement = 95. Perfect time = 31.451219512195124
+361. It's a Train. Cart number = 29. Perfect time = 11.835164835164836
+362. It's a tugboat. Displacement = 28. Perfect time = 112.19736842105263
+363. It's a Train. Cart number = 12. Perfect time = 3.7681159420289854
+364. It's a tugboat. Displacement = 35. Perfect time = 68.92941176470588
+365. It's a tanker. Displacement = 45. Perfect time = 64.17021276595744
+366. It's a Plane. Range = 540. Capacity = 71 Perfect time = 2.1094808126410833
+367. It's a Train. Cart number = 49. Perfect time = 5.252747252747253
+368. It's a tugboat. Displacement = 95. Perfect time = 100.57291666666667
+369. It's a Train. Cart number = 11. Perfect time = 4.306666666666667
+370. It's a Plane. Range = 894. Capacity = 296 Perfect time = 0.9666666666666667
+371. It's a liner. Displacement = 44. Perfect time = 13.339622641509434
+372. It's a tanker. Displacement = 96. Perfect time = 111.97333333333333
+373. It's a liner. Displacement = 61. Perfect time = 8.928571428571429
+374. It's a Plane. Range = 629. Capacity = 298 Perfect time = 1.5139240506329115
+375. It's a tanker. Displacement = 10. Perfect time = 51.574074074074076
+376. It's a liner. Displacement = 91. Perfect time = 157.7058823529412
+377. It's a tugboat. Displacement = 43. Perfect time = 27.458333333333332
+378. It's a Plane. Range = 385. Capacity = 196 Perfect time = 2.5289079229122056
+379. It's a tugboat. Displacement = 84. Perfect time = 99.59770114942529
+380. It's a tanker. Displacement = 86. Perfect time = 98.34939759036145
+381. It's a Plane. Range = 784. Capacity = 166 Perfect time = 1.0977777777777777
+382. It's a tanker. Displacement = 63. Perfect time = 64.68354430379746
+383. It's a Train. Cart number = 100. Perfect time = 4.0
+384. It's a Plane. Range = 245. Capacity = 232 Perfect time = 0.8447712418300654
+385. It's a Train. Cart number = 62. Perfect time = 3.476
+386. It's a Plane. Range = 210. Capacity = 288 Perfect time = 1.5862068965517242
+387. It's a Plane. Range = 835. Capacity = 236 Perfect time = 1.2183544303797469
+388. It's a liner. Displacement = 86. Perfect time = 68.86764705882354
+389. It's a tugboat. Displacement = 69. Perfect time = 169.44444444444446
+390. It's a Train. Cart number = 51. Perfect time = 0.9748953974895398
+391. It's a Plane. Range = 418. Capacity = 308 Perfect time = 4.630071599045346
+392. It's a Plane. Range = 434. Capacity = 306 Perfect time = 1.3256379100850546
+393. It's a tanker. Displacement = 95. Perfect time = 29.625
+394. It's a tanker. Displacement = 83. Perfect time = 91.57731958762886
+395. It's a Train. Cart number = 95. Perfect time = 7.604395604395604
+396. It's a Plane. Range = 518. Capacity = 377 Perfect time = 3.27027027027027
+397. It's a tugboat. Displacement = 97. Perfect time = 19.557894736842105
+398. It's a tugboat. Displacement = 53. Perfect time = 144.48076923076923
+399. It's a Train. Cart number = 63. Perfect time = 1.2705882352941176
+400. It's a liner. Displacement = 18. Perfect time = 116.66265060240964
+401. It's a liner. Displacement = 96. Perfect time = 20.776119402985074
+402. It's a Plane. Range = 736. Capacity = 131 Perfect time = 1.7302100161550888
+403. It's a Plane. Range = 338. Capacity = 114 Perfect time = 1.1288343558282208
+404. It's a Plane. Range = 117. Capacity = 309 Perfect time = 1.3556638246041413
+405. It's a tanker. Displacement = 71. Perfect time = 43.64705882352941
+406. It's a liner. Displacement = 33. Perfect time = 63.916666666666664
+407. It's a Plane. Range = 157. Capacity = 349 Perfect time = 3.626146788990826
+408. It's a Train. Cart number = 82. Perfect time = 4.899581589958159
+409. It's a tanker. Displacement = 83. Perfect time = 41.473684210526315
+410. It's a tugboat. Displacement = 57. Perfect time = 113.09375
+411. It's a Train. Cart number = 17. Perfect time = 1.6283185840707965
+412. It's a Plane. Range = 563. Capacity = 162 Perfect time = 1.1577350859453994
+413. It's a Train. Cart number = 62. Perfect time = 5.291338582677166
+414. It's a Plane. Range = 179. Capacity = 349 Perfect time = 1.0083025830258303
+415. It's a Train. Cart number = 11. Perfect time = 3.8175675675675675
+416. It's a Plane. Range = 427. Capacity = 266 Perfect time = 0.6278195488721805
+417. It's a Plane. Range = 383. Capacity = 294 Perfect time = 1.1673040152963672
+418. It's a Plane. Range = 187. Capacity = 196 Perfect time = 1.6183057448880234
+419. It's a Train. Cart number = 33. Perfect time = 1.5476190476190477
+420. It's a tugboat. Displacement = 30. Perfect time = 133.19642857142858
+421. It's a Train. Cart number = 46. Perfect time = 2.1152416356877324
+422. It's a Train. Cart number = 60. Perfect time = 6.302222222222222
+423. It's a Train. Cart number = 59. Perfect time = 11.51639344262295
+424. It's a Plane. Range = 477. Capacity = 184 Perfect time = 1.215625
+425. It's a Plane. Range = 782. Capacity = 74 Perfect time = 0.8284473398479913
+426. It's a Plane. Range = 501. Capacity = 224 Perfect time = 1.8807339449541285
+427. It's a tanker. Displacement = 60. Perfect time = 63.223684210526315
+428. It's a tanker. Displacement = 10. Perfect time = 74.16666666666667
+429. It's a tugboat. Displacement = 49. Perfect time = 84.17391304347827
+430. It's a Train. Cart number = 46. Perfect time = 7.848484848484849
+431. It's a Train. Cart number = 79. Perfect time = 6.386503067484663
+432. It's a tugboat. Displacement = 27. Perfect time = 25.40625
+433. It's a Train. Cart number = 31. Perfect time = 5.891156462585034
+434. It's a Plane. Range = 987. Capacity = 59 Perfect time = 1.7989417989417988
+435. It's a Plane. Range = 146. Capacity = 357 Perfect time = 0.7683544303797468
+436. It's a Train. Cart number = 26. Perfect time = 1.413978494623656
+437. It's a Plane. Range = 909. Capacity = 147 Perfect time = 4.389473684210526
+438. It's a tugboat. Displacement = 42. Perfect time = 40.035714285714285
+439. It's a Plane. Range = 520. Capacity = 250 Perfect time = 1.5807622504537204
+440. It's a Plane. Range = 791. Capacity = 104 Perfect time = 6.394136807817589
+441. It's a tanker. Displacement = 29. Perfect time = 42.08791208791209
+442. It's a Plane. Range = 689. Capacity = 127 Perfect time = 1.5977011494252873
+443. It's a Plane. Range = 379. Capacity = 338 Perfect time = 1.0518783542039356
+444. It's a Train. Cart number = 57. Perfect time = 1.2682926829268293
+445. It's a tanker. Displacement = 78. Perfect time = 24.6056338028169
+446. It's a liner. Displacement = 69. Perfect time = 27.73972602739726
+447. It's a tanker. Displacement = 47. Perfect time = 100.74
+448. It's a Train. Cart number = 71. Perfect time = 5.127659574468085
+449. It's a Train. Cart number = 35. Perfect time = 2.856140350877193
+450. It's a Train. Cart number = 92. Perfect time = 5.8655462184873945
+451. It's a tanker. Displacement = 44. Perfect time = 71.19672131147541
+452. It's a Plane. Range = 438. Capacity = 179 Perfect time = 2.2017543859649122
+453. It's a Train. Cart number = 46. Perfect time = 5.828703703703703
+454. It's a Train. Cart number = 59. Perfect time = 3.5714285714285716
+455. It's a Train. Cart number = 82. Perfect time = 1.0
+456. It's a Train. Cart number = 70. Perfect time = 4.341176470588235
+457. It's a tugboat. Displacement = 35. Perfect time = 55.855555555555554
+458. It's a Train. Cart number = 36. Perfect time = 3.4280821917808217
+459. It's a Plane. Range = 381. Capacity = 390 Perfect time = 1.9653361344537814
+460. It's a tugboat. Displacement = 78. Perfect time = 37.19230769230769
+461. It's a tanker. Displacement = 78. Perfect time = 74.42045454545455
+462. It's a liner. Displacement = 83. Perfect time = 131.52238805970148
+463. It's a tugboat. Displacement = 97. Perfect time = 7.810526315789474
+464. It's a liner. Displacement = 72. Perfect time = 42.63529411764706
+465. It's a Train. Cart number = 46. Perfect time = 1.244047619047619
+466. It's a Plane. Range = 954. Capacity = 338 Perfect time = 1.2238193018480492
+467. It's a Plane. Range = 738. Capacity = 398 Perfect time = 2.332409972299169
+468. It's a Plane. Range = 454. Capacity = 237 Perfect time = 0.781021897810219
+469. It's a liner. Displacement = 71. Perfect time = 90.47058823529412
+470. It's a tanker. Displacement = 63. Perfect time = 15.961538461538462
+471. It's a tanker. Displacement = 99. Perfect time = 91.73809523809524
+472. It's a Plane. Range = 752. Capacity = 205 Perfect time = 1.8245614035087718
+473. It's a Train. Cart number = 28. Perfect time = 2.0098522167487687
+474. It's a liner. Displacement = 11. Perfect time = 110.85227272727273
+475. It's a Plane. Range = 749. Capacity = 187 Perfect time = 0.8287878787878787
+476. It's a liner. Displacement = 12. Perfect time = 88.74444444444444
+477. It's a Plane. Range = 746. Capacity = 256 Perfect time = 0.4702329594477998
+478. It's a liner. Displacement = 54. Perfect time = 40.64367816091954
+479. It's a Train. Cart number = 48. Perfect time = 3.11731843575419
+480. It's a Train. Cart number = 91. Perfect time = 5.099415204678363
+481. It's a Train. Cart number = 89. Perfect time = 4.822033898305085
+482. It's a Train. Cart number = 96. Perfect time = 5.860986547085202
+483. It's a Plane. Range = 500. Capacity = 166 Perfect time = 3.3763440860215055
+484. It's a Train. Cart number = 68. Perfect time = 1.6442307692307692
+485. It's a Train. Cart number = 35. Perfect time = 2.2254098360655736
+486. It's a tanker. Displacement = 86. Perfect time = 59.74747474747475
+487. It's a Plane. Range = 239. Capacity = 59 Perfect time = 2.8920863309352516
+488. It's a Train. Cart number = 24. Perfect time = 0.46846846846846846
+489. It's a liner. Displacement = 72. Perfect time = 88.0618556701031
+490. It's a tugboat. Displacement = 14. Perfect time = 88.78947368421052
+491. It's a liner. Displacement = 78. Perfect time = 93.328125
+492. It's a Plane. Range = 203. Capacity = 102 Perfect time = 0.7012345679012346
+493. It's a Plane. Range = 313. Capacity = 236 Perfect time = 2.930722891566265
+494. It's a Plane. Range = 311. Capacity = 306 Perfect time = 0.6857142857142857
+495. It's a liner. Displacement = 70. Perfect time = 101.52083333333333
+496. It's a tanker. Displacement = 38. Perfect time = 62.77319587628866
+497. It's a Plane. Range = 321. Capacity = 326 Perfect time = 2.1872146118721463
+498. It's a Train. Cart number = 20. Perfect time = 3.7151515151515153
+499. It's a Plane. Range = 489. Capacity = 307 Perfect time = 1.1864661654135338
+500. It's a Train. Cart number = 85. Perfect time = 5.8023255813953485
